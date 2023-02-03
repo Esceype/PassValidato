@@ -1,3 +1,0 @@
-#PassValidator
-
-Angular cool tool )
